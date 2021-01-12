@@ -1,6 +1,5 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/gerador-de-cores)
-
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/gerador-de-cores)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-lista-item)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-lista-item)
 
 ## Projeto Lista de Itens.
 
@@ -12,9 +11,9 @@ useState e useEffect e Condicional
 
 ## Imagem do Projeto
 
-[projeto-gerador-de-cores.netlify.app](https://projeto-gerador-de-cores.netlify.app/)
+[projeto-lista-item.netlify.app](https://projeto-lista-item.netlify.app/)
 
-<img src="https://github.com/jefferson1984/gerador-de-cores/blob/main/cores2.png">
+<img src="https://github.com/jefferson1984/projeto-lista-item/blob/main/listaadd2.png">
 
 ## Reproduzir
 
